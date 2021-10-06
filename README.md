@@ -7,4 +7,4 @@ Python scripts and notebook files
 
 [**misc/bikeshare**](https://github.com/sunnykan/pythonFiles/tree/master/misc/bike-share): Code for wrangling bikeshare data for Vancouver, Montreal and Toronto. The collected data is cleaned and inserted into a postgres database. Also includes code for downloading Canadian weather data which is then inserted into the postgres database. There are three tables in the database: list of bike stations, bicycle trips for all three cities and weather data for the periods when the trips were taken. The tables are linked. There are more than twenty million records in the bikeshare database (mostly from Montreal).
 
-[**misc/spark**](https://github.com/sunnykan/pythonFiles/tree/master/spark): Run a linear regression on an apache spark 4-node cluster on AWS using pyspark. 
+[**spark**](https://github.com/sunnykan/pythonFiles/tree/master/spark): Run a linear regression on an apache spark 4-node cluster on AWS using pyspark. 
